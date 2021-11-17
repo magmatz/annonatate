@@ -1,0 +1,44 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_004"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ding",
+            "purpose": "commenting",
+            "creator": {
+                "id": "magmatz",
+                "name": "magmatz"
+            },
+            "created": "2021-11-17T08:15:27.776Z",
+            "modified": "2021-11-17T08:15:28.194Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Ding",
+            "purpose": "tagging",
+            "creator": {
+                "id": "magmatz",
+                "name": "magmatz"
+            },
+            "created": "2021-11-17T08:15:29.749Z",
+            "modified": "2021-11-17T08:15:30.303Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/segIns_004",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1755.859130859375,1149.236083984375 2696.1025390625,861.4891357421875 2764.999755859375,825.0142211914062 1836.9146728515625,1238.3970947265625 1865.2840576171875,1153.288818359375 3413.443359375,1497.7745361328125 3125.696533203125,1039.8111572265625 3125.696533203125,1039.8111572265625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_004/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e00147da-2964-472d-9363-a933d6181522.json"
+}
